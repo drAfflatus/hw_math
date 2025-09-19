@@ -1,0 +1,1 @@
+npm i -D @babel/core @babel/preset-env @babel/cli html-webpack-plugin jest live-server mini-css-extract-plugin prettier webpack webpack-cli webpack-dev-server babel-jest babel-loader core-js eslint eslint-plugin-prettier
